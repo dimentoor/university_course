@@ -1,5 +1,5 @@
 # Лабораторная работа №1 Шифр Цезаря:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dimentoor/university_course/blob/25_cryptographic_algorithms//Part_1/lab_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dimentoor/university_course/blob/25_cryptographic_algorithms//practical assignments/lab_1.ipynb)
 
 
 # Лабораторная работа №2 Сравнительный анализ хэш-функций :
